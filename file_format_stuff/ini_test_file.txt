@@ -1,0 +1,5 @@
+a=1
+b=123
+c=true
+d=false
+e=a string
